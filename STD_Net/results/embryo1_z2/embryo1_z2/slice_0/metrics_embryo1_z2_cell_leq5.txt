@@ -1,0 +1,7 @@
+Dataset: embryo1_z2
+Slice: slice_0
+RMSE: 0.1692
+Spearman Correlation: 0.3294
+Jensen-Shannon Divergence: 0.5553
+Predicted SCS: 0.5631
+True SCS: 0.7002
