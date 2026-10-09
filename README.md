@@ -46,6 +46,10 @@ The `support_rare_balanced` profile jointly uses inverse-abundance weighting and
 
 Record the commit identifier, Python version, dependency versions, random seeds, CUDA/PyTorch build and input-data accession when reproducing an analysis. The repository contains code and tests only; numerical results are not part of this public code release.
 
+## Archive and citation
+
+The `v0.2.0` code release is archived on Zenodo with the version DOI [10.5281/zenodo.23266460](https://doi.org/10.5281/zenodo.23266460). Cite this version DOI when referring to the released implementation.
+
 ## License
 
 This code release is distributed under the MIT License; see [LICENSE](LICENSE).
