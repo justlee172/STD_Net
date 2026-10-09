@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated STD-Net paper and this software release."
+title: "STD-Net support-aware dual-graph learning"
+version: "0.2.0"
+date-released: "2026-10-09"
+license: MIT
+repository-code: "https://github.com/justlee172/STD_Net"
+abstract: >-
+  Support-aware dual-graph neural network software for spatial transcriptomic
+  cell-type deconvolution. This release contains the support_rare_balanced
+  implementation, paper-aligned wrappers and tests; input data and numerical
+  results are intentionally excluded.
+type: software
+keywords:
+  - spatial transcriptomics
+  - cell-type deconvolution
+  - graph neural networks
+  - sparse composition
+  - rare cell types
+authors:
+  - family-names: Li
+    given-names: Xiaolin
+  - family-names: Lu
+    given-names: Juehan
+  - family-names: Chen
+    given-names: Zunren
+  - family-names: Zeng
+    given-names: Haihan
+  - family-names: Zhang
+    given-names: Qinhua
+  - family-names: Sun
+    given-names: Yilan
+  - family-names: Huang
+    given-names: Shiguo
