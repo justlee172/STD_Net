@@ -48,4 +48,4 @@ Record the commit identifier, Python version, dependency versions, random seeds,
 
 ## License
 
-A license must be selected by the authors before redistribution. Until a license file is added, all rights are reserved by default.
+This code release is distributed under the MIT License; see [LICENSE](LICENSE).
